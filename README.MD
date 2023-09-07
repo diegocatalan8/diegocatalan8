@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about technology and software development, my journey into the world of programming began with an insatiable curiosity. My goal is to create impactful and challenging solutions that address real-world problems. With experience in web development, mobile applications, and a love for clean code, I am committed to continuous learning and collaboration on exciting projects. Let's create something amazing together!
+Passionate about technology and software development, my journey into the world of programming began with an insatiable curiosity. My goal is to create impactful and challenging solutions that address real-world problems. With experience in web development and a love for clean code, I am committed to continuous learning and collaboration on exciting projects. Let's create something amazing together!
 
 
 ## 🌐 Socials:
